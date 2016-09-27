@@ -1,0 +1,19 @@
+{
+    "name": "php_ci/blogapp",
+    "authors": [
+        {
+            "name": "TJK",
+            "email": "tjk@md86.jp"
+        }
+    ],
+
+    "config": {
+
+       "vendor-dir": "Vendor"
+     },
+
+   "require": {
+        "cakephp/cakephp": "2.5.*",
+        "josegonzalez/cakephp-environments": "1.0.0"
+    }
+}
